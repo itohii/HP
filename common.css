@@ -1,0 +1,37 @@
+html {
+    font-family: serif,"Hiragino Mincho Pro","ヒラギノ明朝 Pro W6","ＭＳ Ｐ明朝","HGS明朝E";
+	overflow: auto;
+    font:
+}
+
+.content{
+    margin-left:230px;
+    padding-top: 30px;
+}
+
+#sideMenu{
+    border-right: medium solid #42f495;
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    padding-top: 70px;
+}
+
+#sideMenu li{
+    list-style: none;
+    text-align: center;
+    height: 80px;
+}
+
+#sideMenu li a{
+    text-decoration: none;
+}
+
+#title{
+    margin-left: -30px;
+    width: 200px;
+}
+
+#sbtn5:hover{
+    color:#7fbfff;
+}
